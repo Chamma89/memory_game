@@ -46,5 +46,12 @@ var createBoard = function(){
 	}
 };
 
+var reset = function(){
+	for(var i = 0; i < cards.length; i++) {
+		var cardReset = 
+
+	}
+};
+
 
 createBoard();
